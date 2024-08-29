@@ -1,5 +1,5 @@
 ---
-Austin Mcclarin's Porfolio of Cybersecurity Projects
+layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
